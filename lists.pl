@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-# Lists = array of scalar values, indexed, ordered
+# Lists = immutable sequence of scalar values, indexed, ordered
 print(()); # display nothing
 print("\n");
 print(10,20,30); # display 102030
